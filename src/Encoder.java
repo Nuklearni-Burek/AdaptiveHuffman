@@ -14,15 +14,11 @@ public class Encoder {
             // Adapt every 100 symbols
             freq.put(c, freq.getOrDefault(c, 0) + 1);
             if (++count % 100 == 0) {
-                adaptTree(freq);
                 freq.clear();
             }
         }
         return encoded;
     }
 
-    private void adaptTree(Map<Character, Integer> freq) {
-        // You may choose to reweight tree based on frequencies
-        // Not implemented in this stub, but could replace nodes
-    }
+
 }
