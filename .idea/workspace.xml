@@ -4,19 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="25067b6d-2498-4edc-9eec-76ea672a5f50" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AdaptiveHuffman.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/AdaptiveHuffmanNode.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/AdaptiveHuffmanTree.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Encoder.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/SymbolGenerator.java" afterDir="false" />
-    </list>
+    <list default="true" id="25067b6d-2498-4edc-9eec-76ea672a5f50" name="Changes" comment="Hello" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -45,6 +33,7 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Application.Main.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "master",
@@ -61,7 +50,31 @@
       <option name="presentableId" value="Default" />
       <updated>1747761108362</updated>
     </task>
+    <task id="LOCAL-00001" summary="Hello">
+      <option name="closed" value="true" />
+      <created>1747761600750</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1747761600750</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Hello" />
+    <option name="LAST_COMMIT_MESSAGE" value="Hello" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
